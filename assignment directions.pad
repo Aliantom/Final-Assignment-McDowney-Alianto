@@ -1,0 +1,15 @@
+The requirements for final code solution:
+Login Page
+Accept username and password from user -both are required fields
+
+Register Page
+As a new user, the user should enter username, name, password- enter twice (if the passwords don’t match, give an error), and select membership level
+If they select admin, they should be required to enter medical license.
+
+Bulletin board page
+Text box for post
+Button to Add post
+Button to delete post 
+Link to Login page (i.e. option to log out)
+
+1 additional feature of your choice. Can be moving background from first lab, progress bar, or a count of the number of injections, this is where you bring your creativity and add your flare.
